@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(241, 243, 245);
+}
+
+h1{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+
+h3{
+    border-bottom: 2px solid rgb(141, 120, 120);
+    display: block;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+table{
+   display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+a{
+    color: black;
+}
